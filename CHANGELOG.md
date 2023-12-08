@@ -1,3 +1,15 @@
+# v0.0.6 (Fri Dec 08 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update deploy.sh ([@Minosuko](https://github.com/Minosuko))
+
+#### Authors: 1
+
+- Minosuko ([@Minosuko](https://github.com/Minosuko))
+
+---
+
 # v0.0.5 (Fri Dec 08 2023)
 
 #### ⚠️ Pushed to `main`
