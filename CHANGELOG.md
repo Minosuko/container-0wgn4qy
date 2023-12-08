@@ -1,3 +1,15 @@
+# v0.0.4 (Fri Dec 08 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@Minosuko](https://github.com/Minosuko))
+
+#### Authors: 1
+
+- Minosuko ([@Minosuko](https://github.com/Minosuko))
+
+---
+
 # v0.0.3 (Fri Dec 08 2023)
 
 #### ⚠️ Pushed to `main`
