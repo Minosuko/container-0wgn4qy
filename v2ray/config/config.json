@@ -4,13 +4,19 @@
 	},
 	"inbounds": [
 		{
+			"listen": "0.0.0.0",
+			"port": 1110,
+			"protocol": "http",
+			"settings": {}
+		},
+		{
 			"port": 80,
 			"listen":"0.0.0.0",
 			"protocol": "vmess",
 			"settings": {
 				"clients": [
 					{
-						"id": "$UUID",
+						"id": "cedc46ff-f95a-44d8-8204-c94a4dcb6352",
 						"alterId": 0
 					}
 				]
@@ -29,7 +35,7 @@
 			"settings": {
 				"clients": [
 					{
-						"id": "$UUID",
+						"id": "cedc46ff-f95a-44d8-8204-c94a4dcb6352",
 						"alterId": 0
 					}
 				],
